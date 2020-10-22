@@ -7,6 +7,10 @@ class VoyagesController < ApplicationController
               lat: voyage.latitude,
               lng: voyage.longitude
             }
+        end
+    end
+
+    def show
     end
     
     def create

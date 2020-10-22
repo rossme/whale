@@ -3,9 +3,6 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.6.6'
 
-gem 'autoprefixer-rails'
-gem 'font-awesome-sass', '~> 5.12.0'
-gem 'simple_form'
 gem 'geocoder'
 gem 'dotenv-rails', groups: [:development, :test]
 
@@ -33,6 +30,10 @@ gem 'jbuilder', '~> 2.7'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
+
+gem 'autoprefixer-rails'
+gem 'font-awesome-sass'
+gem 'simple_form'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
