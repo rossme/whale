@@ -192,7 +192,7 @@ DEPENDENCIES
   bootsnap (>= 1.4.2)
   byebug
   dotenv-rails
-  font-awesome-sass (~> 5.12.0)
+  font-awesome-sass
   geocoder
   jbuilder (~> 2.7)
   listen (~> 3.2)
