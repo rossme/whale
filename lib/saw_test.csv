@@ -1,0 +1,6 @@
+voyageID,voyage,port,whaling_ground,sealing_ground,year,whales,whale_oil,seals,seal_oil,whales_other,source,masterID,master_unc,master,vesselID,vessel,vessel_type,tonnage,notes
+SV0001,Trial : 1750,Edinburgh/Leith,Kulusuk/East Greenland,Only whaling,1750,0,0,,,,,SM0530,,"Whitehead, J",SS274,Trial,sailing vessel,,
+SV0004,Argyle : 1751,Campbelton/Scotland,Kulusuk/East Greenland,Only whaling,1751,0,0,,,,,SM0241,,"Kennedy, J",SS026,Argyle,sailing vessel,,
+SV0005,Campbelton : 1751,Campbelton/Scotland,Kulusuk/East Greenland,Only whaling,1751,0,0,,,,,SM0304,,"Mccallum, M",SS042,Campbelton,sailing vessel,,
+SV0003,Hopeton : 1751,Edinburgh/Leith,Kulusuk/East Greenland,Only whaling,1751,0,0,,,,,SM0000,,Unknown,SS127,Hopeton,sailing vessel,,Lost at EG.
+SV0002,Trial : 1751,Edinburgh/Leith,Kulusuk/East Greenland,Only whaling,1751,0,0,,,,,SM0328,,"Murray, A",SS274,Trial,sailing vessel,,
